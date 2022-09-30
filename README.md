@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @luguer15
-- 👀 I’m interested in  aprender a programar 
-- 🌱 I’m currently learning  banco de dados e  coisas aleatorias
-- 💞️ I’m looking to collaborate on  em tudo que ajude a mim e outras pessoas
+- 👀 I’m interested in learn to program
+- 🌱 I’m currently learning  database and random stuff
+- 💞️ I’m looking to collaborate on in everything that helps me and others
 - 📫 How to reach me  5566996915168, EMAIL :lucaseduardo1786@gmail.com
--sou novo em codigos, estou procurando aprender  a criar  softwae .
+-I'm new to coding, I'm looking to learn how to create software.
 
 <!---
 luguer15/luguer15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
